@@ -1,0 +1,24 @@
+{
+  "name": "netsuite-suitetalk-wsdl-v2017-1.0",
+  "version": "1.0.0",
+  "description": "NetSuite SuiteTalk WSDL_v2017_1_0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:servel333/node-netsuite-suitetalk-wsdl-v2017-1.0.git"
+  },
+  "keywords": [
+    "netsuite",
+    "suitetalk",
+    "wsdl"
+  ],
+  "author": "Nathan Perry",
+  "license": "ISC",
+  "bugs": {
+    "url": "git@github.com:servel333/node-netsuite-suitetalk-wsdl-v2017-1.0/issues"
+  },
+  "homepage": "git@github.com:servel333/node-netsuite-suitetalk-wsdl-v2017-1.0#readme",
+  "dependencies": {
+    "soap": "0.19.0"
+  }
+}

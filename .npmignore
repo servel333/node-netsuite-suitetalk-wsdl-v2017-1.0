@@ -1,0 +1,6 @@
+.eslintrc.js
+.gitignore
+bin/
+test/
+tmp/
+**/*.tests.*
