@@ -1,6 +1,6 @@
 {
   "name": "netsuite-suitetalk-wsdl-v2017-1.0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NetSuite SuiteTalk WSDL_v2017_1_0",
   "main": "index.js",
   "repository": {
@@ -19,6 +19,6 @@
   },
   "homepage": "git@github.com:servel333/node-netsuite-suitetalk-wsdl-v2017-1.0#readme",
   "dependencies": {
-    "soap": "0.19.0"
+    "soap": "^0.24.0"
   }
 }
