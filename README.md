@@ -30,15 +30,4 @@ const wsdl = require('netsuite-suitetalk-wsdl-v2017-1.0');
 
 var wsdlVersion = wsdl.version;
 // "2017_1"
-
-var wsdlOperations = wsdl.operations;
-// [ "<operation name>"]
-
-var wsdlNamespaces = wsdl.namespaces;
-// { "<namespace prefix>" : "<namespace uri>" }
-
-var wsdlComplexTypes = wsdl.complexTypes;
-// { "<complex type name>" : "<namespace uri>" }
-
-var wsdlComplexTypeNames = _.keys(wsdl.complexTypes);
 ```
